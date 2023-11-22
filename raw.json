@@ -1,0 +1,32 @@
+{
+  "group1": [
+    {
+      "firstname": "John",
+      "phoneNumber": "123-456-7890"
+    },
+    {
+      "firstname": "Alice",
+      "phoneNumber": "987-654-3210"
+    }
+  ],
+  "group2": [
+    {
+      "firstname": "Bob",
+      "phoneNumber": "555-123-4567"
+    },
+    {
+      "firstname": "Eve",
+      "phoneNumber": "555-987-6543"
+    }
+  ],
+  "group3": [
+    {
+      "firstname": "Charlie",
+      "phoneNumber": "888-555-1234"
+    },
+    {
+      "firstname": "Grace",
+      "phoneNumber": "777-999-8888"
+    }
+  ]
+}
